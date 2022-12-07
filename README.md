@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Excel project            |  Analysis of Malaria dataset in Africa-             | https://github.com/acheampongmaa/Excel-projects       |
+| 2 |  -   Data visualization          |  Visaulized LinkedIn dataset-             | https://github.com/acheampongmaa/Data-visualization      |
+| 3 |  -    Python program         |  Created a simple python program(Tip Calcualtor)-             | https://github.com/acheampongmaa/A-simple-python-program    |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
